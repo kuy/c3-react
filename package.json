@@ -21,7 +21,7 @@
     "dev": "webpack-dev-server --port 3002 --devtool eval --progress --hot --colors --content-base build"
   },
   "peerDependencies": {
-    "react": ">=0.13"
+    "react": ">=0.13 || 0.14.0-rc1"
   },
   "dependencies": {
     "c3": "^0.4.10",
